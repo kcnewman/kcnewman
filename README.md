@@ -15,8 +15,6 @@
 - ⚡ Fun fact **I prefer tab to space :)**
 
 <br>
-<br>
-
 <h3 align="left">Connect with me</h3>
 
 ---
@@ -28,17 +26,16 @@
 </p>
 
 <br>
-<br>
 <h3 align="left">Tech Stack</h3>
 
 ---
-<table>
+<table align="center" border="0px">
 <tr>
 <td valign="top" width="33%">
 <h3 align="center">Programming</h3>
 <div align="center">
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40" />
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" /></a>  
@@ -81,7 +78,7 @@
 <br>
 
 <p>
-    <table align="center">
+    <table align="center" border="0px">
         <tr>
             <td valign="top" width="100%">
                     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kcnewman&show_icons=true&locale=en&layout=compact" alt="kcnewman" />
@@ -92,7 +89,7 @@
 
 
 <p>
-    <table>
+    <table align="center" border="0px">
         <tr>
             <td valign="top" width="50%">
                 <div align="center">  

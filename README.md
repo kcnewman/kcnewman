@@ -2,7 +2,7 @@
 <h3 >An aspiring ml engineer from Ghana. I have a degree in Statistics. I am passionate about Quant, Computer Vision and Image Processing.</h3>
 
 
-- 💼 I'm currently an **NSS Personnel at <a href="https://www.statsghana.gov.gh/">GSS  </a>**
+- 💼 I'm currently an **NS Personnel at <a href="https://www.statsghana.gov.gh/">GSS  </a>**
 
 - 🌱 I’m taking courses in **Deep Learning for Quants and CV**
 

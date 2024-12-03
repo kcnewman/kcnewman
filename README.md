@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kelvin Cecil Newman</h1>
-<h3 >An aspiring ml engineer from Ghana. I have a degree in Statistics. I am passionate about Quant, Computer Vision and Image Processing.</h3>
+<h3 >An aspiring ml engineer from Ghana. I have a degree in Statistics. I am passionate about Quant Finance and Computer Vision.</h3>
 
 
 - 💼 I'm currently an **NS Personnel at <a href="https://www.statsghana.gov.gh/">GSS  </a>**
 
-- 🌱 I’m taking courses in **Deep Learning for Quants and CV**
+- 🌱 I’m taking courses in **Machine Learning(CS229A: Machine Learning Specialization)**
 
-- 👯 I’m looking to collaborate on **projects that incline to my aspirations.**
+- 👯 I’m looking to collaborate on **financial forecasting, alg trading, financial modelling, facial recognition, pose detection and other Quant and CV fields**
 
-- 📫 You can reach me on **newmankelvin14@gmail.com**
+- 📫 You can reach me via **newmankelvin14@gmail.com**
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1n5Riq1Cp6_23Rid6XfEosTVfBgqTqMPO/view?usp=drive_link">here  </a>**
 

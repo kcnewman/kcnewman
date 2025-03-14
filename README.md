@@ -1,5 +1,5 @@
 <p>Hi 👋, I'm Kelvin Cecil Newman. A UG senior majoring in Economics and Statistics. I am passionate about Quant Finance.</p>
-<p>Python, R, SQL and TrnsorflowFindhere</a></p>
+<p>My tech stark includes; Python, R, SQL and Tensorflow</a></p>
 <p>
 <ul>
     <li> <a href="https://twitter.com/xcxoo5" target="blank"> Email me </a> </li>

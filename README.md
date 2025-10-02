@@ -3,8 +3,8 @@
 <p>My stack includes; Python, R, and SQL</a></p>
 <p>
 <ul>
-    <li> <a href="https://twitter.com/xcxoo5" target="blank"> Email me </a> </li>
+    <li> <a href="mailto:newmankelvin14@gmail.com" target="_newtab"> Email me </a> </li>
     <li> <a href="https://linkedin.com/in/kelvin-newman-09b961255" target="blank"> Linkedin Profile </a> </li>
-    <li> <a href="https://drive.google.com/file/d/1n5Riq1Cp6_23Rid6XfEosTVfBgqTqMPO/view?usp=drive_link"> Resume </a></li>
+    <li> <a href="https://drive.google.com/file/d/1XjYYb2jBBoz4nP85tiivNNN0VziOIiA2/view?usp=sharing"> Resume </a></li>
 </ul>
 </p>

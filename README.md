@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Cecil! </h1> 
-<p>A UG senior majoring in Economics and Statistics. I am passionate about ML and its application in Finance. Currently building <a href="https://github.com/kcnewman/twiComplete" target="_newtab">twiComplete</a> - An Akan Language Autocomplete system.</p>
+<p>A UG senior majoring in Economics and Statistics. I am passionate about ML and its application in Finance. Currently building <a href="https://github.com/kcnewman/fx-pred" target="_newtab">fxPred</a> - A one-stop tool for anything fx markets.</p>
 <p>Open to collaborate on AI/ML projects.</p>
 <p>My stack includes; Python, R, and SQL.</a></p>
 <p>

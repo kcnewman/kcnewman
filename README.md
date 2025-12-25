@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Cecil! </h1> 
-<p>A UG senior majoring in Economics and Statistics. I am passionate about ML and its application in Finance. Currently building <a href="https://github.com/kcnewman/fx-pred" target="_newtab">fxPred</a> - A one-stop tool for anything fx markets.</p>
-<p>Open to collaborate on AI/ML projects.</p>
+<p>I am passionate about ML and its application in Finance. I am currently exploring MLOps and deployment in general. Currently building <a href="https://github.com/kcnewman/jijiScrapper" target="_newtab">Jiji Scraper</a> - A one-stop tool for scraping jiji.com market site.</p>
+<p>Open to collaborate on AI/ML projects in financial domain.</p>
 <p>My stack includes; Python, R, and SQL.</a></p>
 <p>
 <ul>

@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Cecil! </h1> 
-<p>I am passionate about ML and its application in Finance. I am currently exploring MLOps and deployment in general. Currently building <a href="https://github.com/kcnewman/ares" target="_newtab">Jiji Scraper</a> - A one-stop tool for scraping jiji.com market site.</p>
+<p>I am passionate about ML and its application in Finance. I am currently exploring MLOps and deployment in general. Currently building <a href="https://github.com/kcnewman/ares" target="_newtab">ARES</a> - A one-stop tool for scraping jiji.com market site.</p>
 <p>Open to collaborate on AI/ML projects in financial domain.</p>
 <p>My stack includes; Python, R, and SQL.</a></p>
 <p>
